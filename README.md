@@ -1,6 +1,10 @@
 Copyright (C) 2022 The LineageOS Project
 
-Device configuration for Xiaomi 12
+Copyright (C) 2022 The PixelExperience Project
+
+Copyright (C) 2022 Harka Aita and The Evolution X Project
+
+Device configuration for Xiaomi 12 Pro
 =========================================
 
 The Xiaomi 12 Pro(codenamed _"zeus"_) is a high-end smartphone from Xiaomi.
@@ -21,4 +25,4 @@ Front camera | 32MP in-display
 
 ## Device picture
 
-![Xiaomi 12](https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1646294068.83662193.png "Xiaomi 12 in blue")
+![Xiaomi 12 Pro](https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1646294068.83662193.png "Xiaomi 12 Pro in blue")

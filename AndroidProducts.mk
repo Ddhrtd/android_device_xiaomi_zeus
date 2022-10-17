@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_cupid.mk
+    $(LOCAL_DIR)/evolution_zeus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_cupid-user \
-    lineage_cupid-userdebug \
-    lineage_cupid-eng
+    evolution_zeus-user \
+    evolution_zeus-userdebug \
+    evolution_zeus-eng

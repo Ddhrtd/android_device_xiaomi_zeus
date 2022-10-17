@@ -19,7 +19,7 @@ fi
 
 set -e
 
-export DEVICE=cupid
+export DEVICE=zeus
 export DEVICE_COMMON=sm8450-common
 export VENDOR=xiaomi
 
