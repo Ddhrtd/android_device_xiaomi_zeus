@@ -3,7 +3,7 @@ Copyright (C) 2022 The LineageOS Project
 Device configuration for Xiaomi 12
 =========================================
 
-The Xiaomi 12 (codenamed _"cupid"_) is a high-end smartphone from Xiaomi.
+The Xiaomi 12 Pro(codenamed _"zeus"_) is a high-end smartphone from Xiaomi.
 
 It was globally released in March 2022.
 
@@ -14,9 +14,9 @@ Basic   | Spec Sheet
 Platform | Snapdragon® 8 Gen 1 (SM8450)
 RAM & Storage | 8GB/128GB, 8GB/256GB, 12GB/256GB (LPDDR5 RAM, UFS 3.1 storage)
 Shipped Android Version | 12
-Battery | Non-removable, 4500 mAh
-Display | 6.28″, 120Hz, 2400x1080 (419 ppi)
-Rear camera | 50MP wide angle, 13MP ultra wide-angle, 5MP telemacro
+Battery | Non-removable, 4600 mAh
+Display | 6.73″, 120Hz, 1440x3200 (521 ppi)
+Rear camera | 50MP wide angle, 50MP ultra wide-angle, 50MP telemacro
 Front camera | 32MP in-display
 
 ## Device picture
